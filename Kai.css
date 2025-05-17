@@ -1,5 +1,6 @@
 /*
 Free to use CSS template by Katie (#106445).
+Edits by Ivystar (#175953)
 This code may be altered, edited, or re-uploaded. 
 This template may be used to create paid codes (pre-mades and commissions).
 Please do NOT remove this credit, unless your coding becomes unrecognizable from this one! 
@@ -19,7 +20,7 @@ body {
 	background: url('https://www.indystar.com/gcdn/authoring/images/10BEST/2024/03/07/USAT/72875630007-10BEST-412322-GettyImages-830948410.jpeg?crop=989,557,x0,y51') center center fixed;
 	background-size: 100%;
 	font-family: 'Sansita Swashed';
-	color: #2e2a2b
+	color: #4b4066
 }
 
 
@@ -49,7 +50,7 @@ body {
 	background: rgba(1, 1, 1, 0.5);
 	border: none;
 	border-top: none;
-	color: #79305a;
+	color: #f8f7db;
 	border-radius: 0px;
 }
 
@@ -60,7 +61,7 @@ body {
 .navbar {
 	background: rgba(1, 1, 1, 0.5);
 	border-bottom: none;
-	color: #79305a;
+	color: #4b4066;
 	border-radius: 0px
 }
 
@@ -69,7 +70,7 @@ body {
 
 
 .navbar li a {
-	color: #79305a !important
+	color: #f8f7db !important
 }
 
 
@@ -79,7 +80,7 @@ body {
 .navbar li a:hover {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border-bottom: none;
-	color: #b33b72 !important;
+	color: #f8f7db !important;
 	border-radius: 0px
 }
 
@@ -166,7 +167,7 @@ button.button, button.button:hover {
 .alert-danger {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border: none;
-	color: #000000;
+	color: #4b4066;
 	border-radius: 0px !important
 }
 
@@ -228,7 +229,7 @@ h3 {
 /* ENERGY BAR BACKGROUND */
 .progress {
 	background: rgba(1, 1, 1, 0.5);
-	color: #000000 !important;
+	color: #4b4066 !important;
 	border-radius: 0px !important
 }
 
@@ -251,21 +252,21 @@ h3 {
 
 
 .s-chat-message:nth-child(even) /* Even Numbered Messages */ {
-	background: rgba(1, 1, 1, 0.5) !important;
-        color: #000000 !important;
+	background: rgba(75, 64, 102, 0.5) !important;
+        color: #8473ab !important;
 	border: none !important
 }
 
 
 .s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
-	background: rgba(1, 1, 1, 0.5) !important;
-        color: #000000 !important;
+	background: rgba(75, 64, 102, 0.5) !important;
+        color: #f8f7db !important;
 	border: none !important
 }
 
 
 .s-chat-message__pinned /* Pinned Message */ {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: rgba(75, 64, 102, 0.5) !important;
         color: #000000 !important;
 	border: none !important
 }
@@ -297,7 +298,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 
 
 .table {
-	background: rgba(1, 1, 1, 0.5);
+	background: rgba(75, 64, 102, 0.5);
 	border: none !important;
 	border-collapse: separate;
 	border-radius: 0px
@@ -312,8 +313,8 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .top,
 .bottom,
 th {
-	background: rgba(1, 1, 1, 0.5) !important;
-	color: #000000 !important;
+	background: rgba(75, 64, 102, 0.5) !important;
+	color: #f8f7db !important;
 	border-radius: 0px
 }
 
@@ -327,7 +328,7 @@ td.bottom a {
 
 
 .inner-table .left {
-	background: rgba(155, 226, 242, 0.6) !important;
+	background: rgba(75, 64, 102, 0.6) !important;
         color: #2e2a2b;
 	border-radius: 0px
 }
@@ -360,7 +361,7 @@ td.right {
 
 .cave-grid,
 .mound-grid {
-	background: rgba(1, 1, 1, 0.5);
+	background: rgba(75, 64, 102, 0.5);
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -370,9 +371,9 @@ td.right {
 
 
 .feature {
-	background: rgba(1, 1, 1, 0.5) !important;
-	color: #000000 !important;
-	border: 1px solid #000000 !important;
+	background: rgba(75, 64, 102, 0.5) !important;
+	color: #f8f7db !important;
+	border: 1px solid #f8f7db !important;
 	border-radius: 0px !important
 }
 
@@ -382,7 +383,7 @@ td.right {
 
 .feature,
 div.left {
-	background: rgba(1, 1, 1, 0.5);
+	background: rgba(75, 64, 102, 0.5);
 	border: none;
 	border-radius: 0px !important
 }
@@ -392,7 +393,7 @@ div.left {
 
 
 .table .left {
-	background: rgba(1, 1, 1, 0.5);
+	background: rgba(75, 64, 102, 0.5);
         border-radius: 0px
 }
 
@@ -403,10 +404,10 @@ div.left {
 input,
 select,
 textarea {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: rgba(75, 64, 102, 0.5) !important;
 	border: none !important;
 	border-radius: 0px !important;
-	color: #000000 !important;
+	color: #4b4066 !important;
 	box-shadow: none !important;
 	text-shadow: none !important
 }
