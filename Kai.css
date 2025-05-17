@@ -99,7 +99,7 @@ body {
 
 
 .breadcrumb .active {
-	color: #b33b72
+	color: #f8f7db
 }
 
 
@@ -107,7 +107,7 @@ body {
 
 
 .breadcrumb::after {
-        content: "Template by Katie (#106445)";
+        content: "Template by Katie (#106445) Edit by MamaVixy (#175953)";
         color: #f8f7db;
         position: absolute;
         right: 13%; /* (This may need adjusting) */
@@ -329,7 +329,7 @@ td.bottom a {
 
 .inner-table .left {
 	background: rgba(75, 64, 102, 0.6) !important;
-        color: #2e2a2b;
+        color: #f8f7db;
 	border-radius: 0px
 }
 
